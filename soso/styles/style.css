@@ -1,0 +1,13 @@
+@import url(header.css);
+@import url(banner.css);
+@import url(carro.css);
+@import url(TOPS.css);
+
+:root{
+    --cor-de-fundo: rgb(255, 117, 225);
+    --menu-color: rgb(252, 173, 255);
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+}
